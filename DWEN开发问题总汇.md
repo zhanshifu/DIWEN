@@ -12,7 +12,10 @@
 
 问题解决：检查一下三项键盘设置是否正确
 
-![img](file:///C:/Users/ZHANSH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)![img](file:///C:/Users/ZHANSH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)![img](file:///C:/Users/ZHANSH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![image](https://github.com/zhanshifu/My-own-liittle-program/tree/main/pictures/1.png)
+![image](https://github.com/zhanshifu/My-own-liittle-program/tree/main/pictures/2.png)
+![image](https://github.com/zhanshifu/My-own-liittle-program/tree/main/pictures/3.png)
+
 
 ### ③上机花屏
 
